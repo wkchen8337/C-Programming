@@ -7,7 +7,7 @@ int main()
     printf("請輸入英文字串: ");
     scanf("%s",s);
     printf("每個字母的數量為:\n");
-    printf("A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n");
+    printf("a b c d e f g h i j k l m n o p q r s t u v w x y z\n");
     int c[26] = {0};
     int i=0;
     int j=0;
