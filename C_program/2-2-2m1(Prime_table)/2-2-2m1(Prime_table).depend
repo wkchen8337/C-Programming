@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1505735716 source:c:\users\wen-kai\desktop\程式設計\c_program\c_program\2-2-2m1(prime_table)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1505738100 source:c:\users\wen-kai\desktop\programming\c_program\c_program\2-2-2m1(prime_table)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
