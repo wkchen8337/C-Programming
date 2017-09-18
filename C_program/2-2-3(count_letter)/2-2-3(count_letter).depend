@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505746061 source:c:\users\wen-kai\desktop\programming\c-program\c_program\2-2-3(count_letter)\main.c
+	<stdio.h>
+	<stdlib.h>
+
